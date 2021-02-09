@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://violin01.github.io</id>
     <title>violin的个人博客</title>
-    <updated>2021-02-08T19:46:24.172Z</updated>
+    <updated>2021-02-09T06:12:29.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://violin01.github.io"/>
     <link rel="self" href="https://violin01.github.io/atom.xml"/>
@@ -10,4 +10,14 @@
     <logo>https://violin01.github.io/images/avatar.png</logo>
     <icon>https://violin01.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, violin的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[两个关于模拟电路及数字电路的科普视频]]></title>
+        <id>https://violin01.github.io/post/liang-ge-guan-yu-mo-ni-dian-lu-ji-shu-zi-dian-lu-de-hen-hao-de-ke-pu-shi-pin/</id>
+        <link href="https://violin01.github.io/post/liang-ge-guan-yu-mo-ni-dian-lu-ji-shu-zi-dian-lu-de-hen-hao-de-ke-pu-shi-pin/">
+        </link>
+        <updated>2021-02-09T06:08:25.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/video/BV1Hi4y1t7zY" target="_blank">数字电</a><br>
+<a href="https://www.bilibili.com/video/BV1774114798" target="_blank">模拟电</a></p>
+]]></content>
+    </entry>
 </feed>
